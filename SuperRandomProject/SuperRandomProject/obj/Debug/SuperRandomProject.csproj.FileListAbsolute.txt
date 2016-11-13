@@ -1,0 +1,9 @@
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\bin\Debug\SuperRandomProject.exe.config
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\bin\Debug\SuperRandomProject.exe
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\bin\Debug\SuperRandomProject.pdb
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\obj\Debug\SuperRandomProject.csprojResolveAssemblyReference.cache
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\obj\Debug\SuperRandomProject.Form1.resources
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\obj\Debug\SuperRandomProject.Properties.Resources.resources
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\obj\Debug\SuperRandomProject.csproj.GenerateResource.Cache
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\obj\Debug\SuperRandomProject.exe
+c:\users\ggzzz\documents\visual studio 2015\Projects\SuperRandomProject\SuperRandomProject\obj\Debug\SuperRandomProject.pdb
